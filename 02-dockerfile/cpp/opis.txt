@@ -1,0 +1,6 @@
+Skopiuj plik main.cpp,
+uruchom komende
+
+c++ -static main.cpp -o main
+
+później można już uruchomić main
